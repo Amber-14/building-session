@@ -1,0 +1,110 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+body{
+    font-family:'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 6em;
+    color: #66BFBF;
+    
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-bottom:10px;
+    
+}
+.profile img{
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted blueviolet 5px;
+    width: 6%;
+    border-bottom: none;
+    margin: 80px auto;
+
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+
+}
+a:hover{
+    color: blueviolet;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+.middle-container{
+    margin: 50px 0;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 30px 0;
+}
+.skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+
+
+}
+span{
+    text-decoration: underline;
+}
+.skill-row img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.giphy-embed{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.button{
+    font-family:'Montserrat', sans-serif;
+    border-radius: 8px;
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: thistle;
+    color: white;
+}
+p{line-height: 2;}
+
+.footer-link .fab fa-github{
+    height: 2em;
+    
+}
+    
+    
+
+    
